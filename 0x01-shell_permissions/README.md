@@ -1,1 +1,1 @@
-Write a script that adds execute permission to the owner and group owner and read permission
+Permission to the owner the group owner and the other user to the file hello

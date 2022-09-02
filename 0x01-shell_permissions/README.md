@@ -1,1 +1,1 @@
-Create a script that changes your ID to betty
+Write a script that set permission

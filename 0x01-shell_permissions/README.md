@@ -1,1 +1,1 @@
-Write a script that add execute permission to owner and group owner
+Write a script that adds execute permission to the owner and group owner and read permission

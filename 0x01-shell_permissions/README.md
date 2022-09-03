@@ -1,1 +1,1 @@
-Create a script that creates a directory
+Write a scrpt that changes the group to horlberton

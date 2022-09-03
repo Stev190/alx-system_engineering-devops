@@ -1,1 +1,1 @@
-Create a script that add symbolic links
+Create a script if only

@@ -1,1 +1,1 @@
-Create a script if only
+Create a script that create a owner and a group owner

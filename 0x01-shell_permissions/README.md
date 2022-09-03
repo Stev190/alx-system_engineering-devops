@@ -1,1 +1,1 @@
-Write a scrpt that changes the group to horlberton
+Create a script that changes a group owner

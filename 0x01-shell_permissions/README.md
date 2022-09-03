@@ -1,1 +1,1 @@
-Create a script that changes a group owner
+Create a script to change owner in a file

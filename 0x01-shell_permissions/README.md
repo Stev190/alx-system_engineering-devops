@@ -1,1 +1,1 @@
-Create a script to change owner in a file
+Write a scrpt that set permission

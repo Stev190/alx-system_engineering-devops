@@ -1,1 +1,1 @@
-Create a script that create a file as Olleh
+Create a script that creates a directory

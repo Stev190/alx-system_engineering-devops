@@ -1,1 +1,1 @@
-Write a scrpt that set permission
+Create a script that add symbolic links

@@ -1,1 +1,1 @@
-Write the script that set the permission
+ Create a script that allows owner and group owner and users

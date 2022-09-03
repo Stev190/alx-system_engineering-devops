@@ -1,1 +1,1 @@
-Write a script that the mode of the mode of the file as the same as John Doe
+Create a script that create a file as Olleh

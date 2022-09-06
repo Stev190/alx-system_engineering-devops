@@ -1,1 +1,1 @@
-it allows users to create a simple names and abbraviation
+You should print a file where users is currently a linux user

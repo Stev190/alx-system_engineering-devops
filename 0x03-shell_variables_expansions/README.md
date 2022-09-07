@@ -1,1 +1,1 @@
-Create a script that creates a new global variable
+Print the result of an additional numbers

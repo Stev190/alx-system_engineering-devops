@@ -1,1 +1,1 @@
-Print the result of power and divide
+Display the result of breath and power

@@ -1,1 +1,1 @@
-Convert numbers to bases
+prints all possible combinations of two letters, except

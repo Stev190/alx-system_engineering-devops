@@ -1,1 +1,1 @@
-Print the result of an additional numbers
+Print the result of power and divide

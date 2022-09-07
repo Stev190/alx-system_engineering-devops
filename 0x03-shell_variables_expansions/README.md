@@ -1,1 +1,1 @@
-encodes and decodes text
+rints every other line from the input
